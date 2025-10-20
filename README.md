@@ -10,7 +10,7 @@ Centralizar los códigos fuente, esquemas y documentación técnica de los proye
 
 - `proyectos/`: Contiene los códigos y archivos asociados a cada proyecto individual del alumnado.
 - `recursos/`: Material complementario como guías, ejemplos de código, esquemas de conexión y documentación técnica.
-- `README.md`: Este archivo de presentación.
+- `Info/General/README.md`: Este archivo de presentación.
 
 ## 📌 Consideraciones
 
